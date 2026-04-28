@@ -5,7 +5,7 @@
 ## advanced.png
 ![alt text](https://github.com/ppc-ntu-khpi/java-1-grumpiestjohn/blob/main/Solution/advanced.png "advanced.png")
 ## Код Customer.java
-````
+````java
 package domain;  
   
 public class Customer {  
